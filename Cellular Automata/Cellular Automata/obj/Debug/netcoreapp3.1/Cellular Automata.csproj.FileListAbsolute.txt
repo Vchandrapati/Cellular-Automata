@@ -1,0 +1,13 @@
+D:\School\SSD Code\Cellular Automata\Cellular Automata\bin\Debug\netcoreapp3.1\Cellular Automata.exe
+D:\School\SSD Code\Cellular Automata\Cellular Automata\bin\Debug\netcoreapp3.1\Cellular Automata.deps.json
+D:\School\SSD Code\Cellular Automata\Cellular Automata\bin\Debug\netcoreapp3.1\Cellular Automata.runtimeconfig.json
+D:\School\SSD Code\Cellular Automata\Cellular Automata\bin\Debug\netcoreapp3.1\Cellular Automata.runtimeconfig.dev.json
+D:\School\SSD Code\Cellular Automata\Cellular Automata\bin\Debug\netcoreapp3.1\Cellular Automata.dll
+D:\School\SSD Code\Cellular Automata\Cellular Automata\bin\Debug\netcoreapp3.1\Cellular Automata.pdb
+D:\School\SSD Code\Cellular Automata\Cellular Automata\obj\Debug\netcoreapp3.1\Cellular Automata.csprojAssemblyReference.cache
+D:\School\SSD Code\Cellular Automata\Cellular Automata\obj\Debug\netcoreapp3.1\Cellular Automata.AssemblyInfoInputs.cache
+D:\School\SSD Code\Cellular Automata\Cellular Automata\obj\Debug\netcoreapp3.1\Cellular Automata.AssemblyInfo.cs
+D:\School\SSD Code\Cellular Automata\Cellular Automata\obj\Debug\netcoreapp3.1\Cellular Automata.csproj.CoreCompileInputs.cache
+D:\School\SSD Code\Cellular Automata\Cellular Automata\obj\Debug\netcoreapp3.1\Cellular Automata.dll
+D:\School\SSD Code\Cellular Automata\Cellular Automata\obj\Debug\netcoreapp3.1\Cellular Automata.pdb
+D:\School\SSD Code\Cellular Automata\Cellular Automata\obj\Debug\netcoreapp3.1\Cellular Automata.genruntimeconfig.cache
